@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vaticiniasiuepro00joa_0050.png"; bbox 0 0 2029 2880; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 688 263 1459 331">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 688 263 1459 331">
+     <span class='ocr_line' id='line_1_1' title="bbox 688 263 1459 331; baseline -0.025 -2"><span class='ocrx_word' id='word_1_1' title='bbox 688 281 784 331; x_wconf 83' lang='lat' dir='ltr'>Viti</span> <span class='ocrx_word' id='word_1_2' title='bbox 798 277 933 324; x_wconf 83' lang='lat' dir='ltr'>fortes</span> <span class='ocrx_word' id='word_1_3' title='bbox 946 266 1124 318; x_wconf 75' lang='lat' dir='ltr'>inuidia</span> <span class='ocrx_word' id='word_1_4' title='bbox 1135 263 1435 312; x_wconf 78' lang='lat' dir='ltr'>orbabuntur·</span> <span class='ocrx_word' id='word_1_5' title='bbox 1449 296 1459 309; x_wconf 90' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 653 372 1517 523">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 653 372 1517 523">
+     <span class='ocr_line' id='line_1_2' title="bbox 653 372 1517 523; baseline -0.02 -55"><span class='ocrx_word' id='word_1_6' title='bbox 653 372 1517 523; x_wconf 50' lang='grc' dir='ltr'>νΑτιξῙιΝινΜ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1099 482 1142 520; baseline 0.047 -2"><span class='ocrx_word' id='word_1_7' title='bbox 1099 482 1142 520; x_wconf 78' lang='lat'>1·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 338 553 1938 2601">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 338 553 1938 2601">
+     <span class='ocr_line' id='line_1_4' title="bbox 338 553 1938 2601; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 338 553 1938 2601; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
